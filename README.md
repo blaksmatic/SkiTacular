@@ -6,7 +6,7 @@ The title page. The background is drew in Photoshop.
 
 The background snow effect is a typical CSS.
 
-![Alt text](/s1?raw=true "Optional Title")
+![Alt text](/s1.png?raw=true "Optional Title")
 
 The responsive mobile background:
 
